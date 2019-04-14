@@ -1,0 +1,29 @@
+{
+  "name": "payeasy",
+  "version": "1.0.0",
+  "description": "api for payment with resources http",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmaciel/payeasy.git"
+  },
+  "keywords": [
+    "payment",
+    "rest",
+    "api"
+  ],
+  "author": "edmaciel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edmaciel/payeasy/issues"
+  },
+  "homepage": "https://github.com/edmaciel/payeasy#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.16.4"
+  }
+}
